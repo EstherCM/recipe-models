@@ -1,0 +1,15 @@
+{
+  "name": "recipe-models",
+  "version": "1.0.0",
+  "description": "Paquete que contiene los modelos de datos compartidos de receteame",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@EstherCM",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.28",
+    "typescript": "^5.4.2"
+  }
+}
