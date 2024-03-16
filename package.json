@@ -2,7 +2,7 @@
   "name": "recipe-models",
   "version": "2.0.0",
   "description": "Paquete que contiene los modelos de datos compartidos de receteame",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

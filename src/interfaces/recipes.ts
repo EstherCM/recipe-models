@@ -1,4 +1,4 @@
-import { TypeRecipe } from '../enums/type-recipe';
+import { TypeRecipe } from '../enums/type-recipe.enum';
 
 export interface IRecipe {
     name: string;
