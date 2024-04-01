@@ -1,6 +1,7 @@
 import { TypeRecipe } from "../enums/type-recipe.enum";
 
 export interface IRecipe {
+  id: string;
   name: string;
   image: string;
   ingredients: string[];
